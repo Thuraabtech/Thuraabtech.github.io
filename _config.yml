@@ -32,7 +32,7 @@ repository: "Thuraabtech/Thuraabtech.github.io"
 # Author profile information
 # -------------------------
 author:
-  avatar: "linkedin_photo.JPG"    # Profile image file shown in the sidebar/profile area
+  avatar: "images/linkedin_photo.jpg"    # Profile image file shown in the sidebar/profile area
   name: "Salman Moahammed"
   bio: "Teaching Assistant || OPEN SOURCE ENTHUSIAST. || YOUTUBER || UTCP"
   location: "Houston,TX"
